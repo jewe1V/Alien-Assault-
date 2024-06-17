@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/ScreenAndButton/BackButton.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/ScreenAndButton/Font.spritefont</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/ScreenAndButton/GameScreen.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/ScreenAndButton/HowToPlayButton.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/ScreenAndButton/HowToPlayScreen.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/ScreenAndButton/MenuBackground.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/ScreenAndButton/MenuButton.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/ScreenAndButton/PauseScreen.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/ScreenAndButton/PlayButton.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/ScreenAndButton/QuitButton.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/ScreenAndButton/RestartButton.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/ScreenAndButton/Win.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Sounds/AlienHurt.wav</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Sounds/Click.wav</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Sounds/Click1.wav</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Sounds/Collect.wav</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Sounds/EnemyHurt.wav</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Sounds/EnemyShoot.wav</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Sounds/Music.wav</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Sounds/NoAmmo.wav</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Sounds/PlayerHurt.wav</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Sounds/PlayerShoot.wav</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Sounds/Reload.wav</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/Background/brick_construction.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/Background/panels.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/Background/road.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/Background/sky.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_1/Attack_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_1/Attack.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_1/Dead.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_1/Hurt_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_1/Hurt.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_1/Idle_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_1/Idle.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_1/Walk_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_1/Walk.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_2/Attack_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_2/Attack.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_2/Charge.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_2/Dead.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_2/Hurt_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_2/Hurt.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_2/Idle_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_2/Idle.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_2/Walk_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_2/Walk.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_3/Attack_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_3/Attack.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_3/Charge.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_3/Dead.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_3/Hurt_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_3/Hurt.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_3/Idle_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_3/Idle.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_3/Walk_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Alien_3/Walk.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_1/Attack_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_1/Attack.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_1/Dead_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_1/Dead.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_1/Hurt_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_1/Hurt.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_1/Idle_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_1/Idle.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_1/Walk_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_1/Walk.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_1/Без имени-1.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_2/Attack_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_2/Attack.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_2/Dead.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_2/Hurt_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_2/Hurt.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_2/Idle_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_2/Idle.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_2/Walk_reversed.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Enemy_2/Walk.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/MainHero/Attack_1.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/MainHero/Attack_2.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/MainHero/Dead.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/MainHero/Hurt.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/MainHero/Idle_reverse.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/MainHero/Idle.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/MainHero/Jump.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/MainHero/Recharge_reverse.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/MainHero/Recharge.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/MainHero/Run_reverse.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/MainHero/Run.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/MainHero/Shot_reverse.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/MainHero/Shot.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/MainHero/Walk_reverse.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/MainHero/Walk.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Stuff/8a6651d6eb7734a9aec9b2d158179450.gif</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Stuff/Aid.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Stuff/Alien2Charge.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Stuff/Alien3Charge.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Stuff/Armor.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Stuff/Bullet.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Stuff/GunUpgrade.png</File>
+    <File>C:/Users/Evgen/OneDrive/Desktop/Game/Content/GameContent/Textures/GameSprites/Stuff/StoreUpgrade.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
